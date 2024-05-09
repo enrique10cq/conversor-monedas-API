@@ -1,4 +1,4 @@
-#** Conversor de Monedas**
+# ** Conversor de Monedas**
 <p>
 Éste es un challenge de ONE (Oracle Next Education);
 consiste en crear un conversor de monedas básico en Java, utilizando la API (exchangeRate-API).
@@ -16,15 +16,15 @@ consiste en crear un conversor de monedas básico en Java, utilizando la API (ex
 
 #### Ejemplo de ejecución:
 1. El usuario ingresa por primera vez al programa.
-![captura del menú](src/media/menu.png)
+   ![captura de la consola](src/media/menu.PNG)
 2. El usuario ingresa una opción correcta.
-   ![captura del menú](src/media/opcion-valida.png)
+   ![captura de la consola](src/media/opcion-valida.png)
 3. El usuario ingresa una opción incorrecta.
-   ![captura del menú](src/media/opcion-invalida.png)
+   ![captura de la consola](src/media/opcion-invalida.png)
 4. El usuario ingresa un string u otro caracter.
-   ![captura del menú](src/media/string.png)
+   ![captura de la consola](src/media/string.png)
 5. El usuario desea salir del programa.
-   ![captura del menú](src/media/salir.png)
+   ![captura de la consola](src/media/salir.png)
 
 
 
