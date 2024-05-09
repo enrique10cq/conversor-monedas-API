@@ -18,13 +18,13 @@ consiste en crear un conversor de monedas básico en Java, utilizando la API (ex
 1. El usuario ingresa por primera vez al programa.
    ![captura de la consola](src/media/menu.PNG)
 2. El usuario ingresa una opción correcta.
-   ![captura de la consola](src/media/opcion-valida.png)
+   ![captura de la consola](src/media/opcion-valida.PNG)
 3. El usuario ingresa una opción incorrecta.
-   ![captura de la consola](src/media/opcion-invalida.png)
+   ![captura de la consola](src/media/opcion-invalida.PNG)
 4. El usuario ingresa un string u otro caracter.
-   ![captura de la consola](src/media/string.png)
+   ![captura de la consola](src/media/string.PNG)
 5. El usuario desea salir del programa.
-   ![captura de la consola](src/media/salir.png)
+   ![captura de la consola](src/media/salir.PNG)
 
 
 
