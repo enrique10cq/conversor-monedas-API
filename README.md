@@ -1,4 +1,4 @@
-# ** Conversor de Monedas**
+#Conversor de Monedas
 <p>
 Éste es un challenge de ONE (Oracle Next Education);
 consiste en crear un conversor de monedas básico en Java, utilizando la API (exchangeRate-API).
